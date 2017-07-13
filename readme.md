@@ -4,3 +4,10 @@ There is device for ownntracks applications based on SIM808. See documentation o
 
 there are movement controll and reporting period when standby of device. It is usefull for dogs controll cheap and easy to use.
 
+ATTENTION !!!
+
+Please use attached to my repository Fona Libraries, there is modyfication for getting DATE and TIME for epoch
+
+https://github.com/roblad/Adafruit_FONA
+
+https://github.com/roblad/Adafruit_MQTT_Library
