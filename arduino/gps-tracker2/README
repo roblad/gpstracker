@@ -1,5 +1,0 @@
-Needed libraries:
- * https://github.com/adafruit/Adafruit_SleepyDog
- * https://github.com/artekw/Adafruit_FONA
- * https://github.com/adafruit/Adafruit_MQTT_Library
- * https://github.com/PaulStoffregen/Time
